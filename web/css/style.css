@@ -1,0 +1,60 @@
+#menu_icones {
+    background-color: #024059;
+    height: 38px;
+    margin: 0 0 0 0;
+
+}
+
+.bolder {
+    font-weight: bolder;
+    font-size: 35pt;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.navbar_itens:hover {
+    cursor: pointer;
+    color: #024059;
+}
+
+.text-azul {
+    color: #024059;
+}
+
+.bg-azul {
+    background-color: #024059;
+}
+
+.btn-outline-azul {
+    border: 2px solid #024059;
+}
+
+.btn-outline-azul:hover {
+    background-color: #024059;
+}
+
+.btn-azul{
+    background-color: #024059;
+    color: white;
+}
+
+.btn-azul:hover{
+    color: white;
+}
+
+.link_button:hover{
+    background-color: green;
+    color: white;
+}
+
+.logo{
+    width: 150px;
+}
+
+.quadrado{
+    margin: 15px;
+    width: 150px;
+    height: 150px;
+}
