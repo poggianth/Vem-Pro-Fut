@@ -69,7 +69,7 @@
                 <br>
                 <div class="col-sm-4">
                     <a href="http://instagram.com/sergin_027">
-                        <img src="img/sergiosilva.png" width="40%" class="rounded">
+                        <img src="img/ss.png" width="40%" class="rounded">
                     </a>
                     <p class="text-justify-center">
                         <br>
@@ -102,7 +102,7 @@
         <nav class="navbar navbar-expand-sm text-white pt-3" id="rodape">
             <ul class="navbar-nav" style="margin: 0 auto;">
                 <li class="nav-item mr-4">
-                    <a class="nav-link itens_rodape" href="http://instagram.com/vemprofut_trabalho" target="_blank"><i class="bi bi-instagram pr-2"></i><strong
+                    <a class="nav-link itens_rodape" href="#"><i class="bi bi-instagram pr-2"></i><strong
                             class="nomes_rodape">@vemprofut</strong></a>
                 </li>
                 <li class="nav-item mr-4">

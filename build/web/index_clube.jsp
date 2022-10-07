@@ -51,7 +51,7 @@
                 </a>
                 <ul class="navbar-nav col justify-content-end">
                     <li class="nav-item pr-2">
-                        <a class="nav-link" style="margin-top: 2px;" href="sobre.jsp" id="itens">Sobre</a>
+                        <a class="nav-link" style="margin-top: 2px;" href="sobre.jsp" target="_blank" id="itens">Sobre</a>
                     </li>
                     <li class="nav-item dropdown pr-4">
                         <form action="Controle" method="post">
